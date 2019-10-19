@@ -1,0 +1,18 @@
+body {
+	margin:0;padding:0;
+	overflow:hidden;
+	color:white;
+}
+#fp{
+	position: absolute;
+	top: 15px;
+	left: 10px;
+	color: teal;
+}
+#canvas1{
+	background-color:black;
+}
+#canvas2{
+	margin-top:-5px;
+	background-color:teal;
+}
